@@ -19,9 +19,9 @@ from analysisFunc import dll_calc
 #     return var
 
 potsdam = 1 # if 1, download the kp data from potsdam, if 0 you must import manually from spidr
-
-timeini = datetime.datetime(2014,9,21,0,0)
-timeend = datetime.datetime(2014,9,24,12,0)
+# 
+# timeini = datetime.datetime(2014,9,21,0,0)
+# timeend = datetime.datetime(2014,9,24,12,0)
 
 
 
